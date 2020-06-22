@@ -1,0 +1,21 @@
+﻿public enum EventDefine
+{
+    UpdateBigScreen = 1,
+    LoadLevel = 2 ,
+    LevelSelected = 3,
+    SpawnModem = 4,
+    SpawnDrill = 5,
+    SpawnCable = 6,
+    WatchWear = 7,
+    BeltWear = 8,
+    WeildDrill = 9,
+    UnWeildDrill =10,
+    Step0 =50,
+    Step1 = 51,
+    Step2 = 52,
+    Step3 = 53,
+    Step4 = 54,
+    Step5 = 55,
+    Step6 = 56,
+    Step7 = 57,
+}
